@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.dll.config
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.pdb
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.OAuthLibrary.pdb

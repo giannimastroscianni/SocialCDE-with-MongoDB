@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary.pdb
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\obj\Debug\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary.pdb
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\new SocialCDE\SocialCDE-ProxyServer-VSclient\SocialTFS\It.Uniba.Di.Cdg.SocialTfs.SharedLibrary\bin\Debug\MongoDB.Driver.Legacy.xml
